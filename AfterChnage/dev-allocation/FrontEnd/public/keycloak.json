@@ -1,0 +1,8 @@
+{
+  "realm": "CAD",
+  "auth-server-url": "http://43.224.110.85:8080/auth/",
+  "ssl-required": "external",
+  "resource": "CAD",
+  "public-client": true,
+  "confidential-port": 0
+}

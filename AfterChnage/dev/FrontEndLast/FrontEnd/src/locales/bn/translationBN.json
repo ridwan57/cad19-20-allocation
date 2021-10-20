@@ -1,0 +1,15 @@
+{
+    "Web Page": "View Application",
+
+    "Content 1": "Headers",
+    "Draft": "আপনার খসড়া আবেদন সমূহ",
+    "Submitted": "আপনার জমাকৃত আবেদন সমূহ",
+
+    "Content 2": "Table Headers",
+    "Priority": "অগ্রাধিকার",
+    "CollegeName": "কলেজের নাম",
+    "Shift": "শিফট",
+    "Version": "মাধ্যম",
+    "Group": "বিভাগ",
+    "SQStatus": "বিশেষ কোটা"
+}

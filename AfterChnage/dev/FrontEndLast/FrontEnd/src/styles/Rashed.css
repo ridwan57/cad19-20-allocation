@@ -1,0 +1,650 @@
+/* Search College Page */
+
+.college-search .card-header {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  min-height: 70px;
+}
+
+.college-search .card {
+  width: 98% !important;
+  align-content: center !important;
+  display: flex !important;
+  position: center !important;
+  border: 1 !important;
+}
+
+.quota-selection {
+  background-color: white !important;
+  width: 100%;
+}
+
+.quota-title {
+  display: flex;
+  align-items: center;
+}
+
+.accordion-button {
+  padding-bottom: 9px;
+}
+
+.quota-checkbox {
+  display: flex;
+  align-items: center;
+}
+
+.dialoge-text {
+  text-align: center;
+  align-self: center;
+}
+
+.dialoge-box {
+  min-height: 200px;
+}
+
+.lower-padded-card .card-body {
+  padding: 0.75rem 0.75rem !important;
+}
+
+.lower-padded-card {
+  padding-top: 20px !important;
+}
+
+.ssc-result-table td {
+  padding-top: 0 !important;
+}
+
+.choice-table th {
+  padding-left: 0.5rem !important;
+  padding-right: 0rem !important;
+}
+
+.choice-table td {
+  padding-left: 0.5rem !important;
+  padding-right: 0rem !important;
+  padding-top: 0.6rem !important;
+  padding-bottom: 0.4rem !important;
+}
+
+.esvg-table th {
+  padding-left: 0.5rem !important;
+  padding-right: 0rem !important;
+}
+
+.esvg-table td {
+  padding-left: 0.5rem !important;
+  padding-right: 0rem !important;
+  padding-top: 0.6rem !important;
+  padding-bottom: 0.4rem !important;
+}
+
+.choice-table span {
+  max-width: 800px; /* adjust to desired wrapping */
+  white-space: pre-wrap; /* css-3 */
+  white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+
+.choice-table-view th {
+  font-size: 13px !important;
+  padding-left: 0.5rem !important;
+  padding-right: 0rem !important;
+}
+
+@media screen and (min-width: 900px) {
+  .choice-table-view th {
+    font-size: 13px !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0rem !important;
+  }
+  .choice-table-view td {
+    font-size: 14.5px !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0rem !important;
+    padding-top: 0.6rem !important;
+    padding-bottom: 0.4rem !important;
+  }
+}
+
+@media screen and (max-width: 899px) {
+  .choice-table-view .card-body {
+    font-size: 12px !important;
+  }
+  .choice-table-view .card-body h7 {
+    font-size: 12px !important;
+  }
+  .choice-table-view th {
+    font-size: 11px !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0rem !important;
+  }
+  .choice-table-view td {
+    font-size: 13px !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0rem !important;
+    padding-top: 0.6rem !important;
+    padding-bottom: 0.4rem !important;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .choice-table-view th {
+    font-size: 10px !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0rem !important;
+  }
+  .choice-table-view td {
+    font-size: 11px !important;
+    padding-left: 0.5rem !important;
+    padding-right: 0rem !important;
+    padding-top: 0.6rem !important;
+    padding-bottom: 0.4rem !important;
+  }
+}
+
+.choice-table-view span {
+  max-width: 800px; /* adjust to desired wrapping */
+  white-space: pre-wrap; /* css-3 */
+  white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+  white-space: -pre-wrap; /* Opera 4-6 */
+  white-space: -o-pre-wrap; /* Opera 7 */
+  word-wrap: break-word; /* Internet Explorer 5.5+ */
+}
+
+.top-shinked-card-row col {
+  margin-top: -100px !important;
+}
+
+@media screen and (min-width: 1200px) {
+  .col-60-pct {
+    width: 55% !important;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .col-40-pct {
+    width: 45% !important;
+  }
+}
+
+@media screen and (min-width: 1230px) {
+  .col-33-pct {
+    width: 33% !important;
+  }
+}
+
+.small-icons {
+  color: 'primary';
+  width: 35px;
+  height: 35px;
+}
+
+.profile-wide-heders {
+  width: 70% !important;
+}
+
+.profile-shinked-data {
+  width: 30% !important;
+}
+
+.width-img-300-px img {
+  max-width: 250px !important;
+}
+
+@media screen and (max-width: 992px) {
+  .single-column-card.top-padded {
+    padding-top: 10px !important;
+  }
+}
+
+.personal-ssc-info .row {
+  font-size: 14px;
+}
+
+.personal-ssc-info h6 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.single-column-card .card-header {
+  max-height: 45px !important;
+}
+
+.single-column-card h5 {
+  margin-top: -12px;
+}
+
+.single-column-card .card-body {
+  margin-top: -12px;
+  margin-bottom: -18px;
+}
+.single-column-card .row {
+  font-size: 14px;
+}
+.single-column-card h6 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+@media screen and (min-width: 1368px) {
+  .padded-down {
+    padding-top: 12px;
+  }
+}
+
+@media screen and (max-width: 1367px) {
+  .padded-down {
+    padding-top: 24px;
+  }
+}
+@media screen and (max-width: 1183px) {
+  .padded-down {
+    padding-top: 32px;
+  }
+}
+@media screen and (max-width: 1093px) {
+  .padded-down {
+    padding-top: 38px;
+  }
+}
+@media screen and (max-width: 1092px) {
+  .padded-down {
+    padding-top: 43px;
+  }
+}
+@media screen and (max-width: 1054px) {
+  .padded-down {
+    padding-top: 48px;
+  }
+}
+@media screen and (max-width: 1051px) {
+  .padded-down {
+    padding-top: 54px;
+  }
+}
+@media screen and (max-width: 1016px) {
+  .padded-down {
+    padding-top: 62px;
+  }
+}
+@media screen and (max-width: 1016px) {
+  .padded-down {
+    padding-top: 67px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .padded-down {
+    padding-top: 83px;
+  }
+}
+
+.view-application h7 {
+  display: inline;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.view-application .card-body {
+  margin-bottom: -5px !important;
+}
+
+/* College Section Card */
+/* Double Column Stretched */
+@media screen and (min-width: 1800px) {
+  .college-selection .col-3 {
+    margin-top: -20px;
+    width: 33% !important;
+  }
+  .college-selection .col-6 {
+    margin-top: -20px;
+    width: 100% !important;
+  }
+}
+/* Double Column Shrinked */
+@media screen and (max-width: 1799px) {
+  .college-selection .col-3 {
+    margin-top: -20px;
+    width: 50% !important;
+  }
+  .college-selection .col-6 {
+    margin-top: -20px;
+    width: 100% !important;
+  }
+}
+/* Single Column Stretched */
+@media screen and (max-width: 1199px) {
+  .college-selection .col-3 {
+    margin-top: -20px;
+    width: 25% !important;
+  }
+  .college-selection .col-6 {
+    margin-top: -20px;
+    width: 50% !important;
+  }
+}
+/* Single Column Shrinked */
+@media screen and (max-width: 919px) {
+  .college-selection .col-3 {
+    margin-top: -20px;
+    width: 50% !important;
+  }
+  .college-selection .col-6 {
+    margin-top: -20px;
+    width: 100% !important;
+  }
+}
+
+/* Search College Information */
+
+@media screen and (min-width: 1000px) {
+  .search-college .col-3 {
+    margin-top: -20px;
+    width: 20% !important;
+  }
+  .search-college .col-6 {
+    margin-top: -20px;
+    width: 40% !important;
+  }
+}
+
+@media screen and (max-width: 999px) {
+  .search-college .col-3 {
+    margin-top: -20px;
+    width: 50% !important;
+  }
+  .search-college .col-6 {
+    margin-top: -20px;
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .search-college .col-3 {
+    margin-top: -20px;
+    width: 20% !important;
+  }
+  .search-college .col-2-1 {
+    margin-top: -20px;
+    width: 16.5% !important;
+  }
+  .search-college .col-6 {
+    margin-top: -20px;
+    width: 40% !important;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .search-college .col-2 {
+    margin-top: -20px;
+    width: 50% !important;
+  }
+  .search-college .col-2-1 {
+    margin-top: -20px;
+    width: 40% !important;
+  }
+  .search-college .col-6 {
+    margin-top: -20px;
+    width: 100% !important;
+  }
+}
+
+/* svg update page */
+
+@media screen and (max-width: 400px) {
+  .col-sm-12-top-padded {
+    width: 100%;
+    padding-top: 10px;
+  }
+}
+
+@media screen and (min-width: 401px) {
+  .col-md-6-top-padded {
+    width: 50%;
+    padding-top: 10px;
+  }
+}
+/*
+.muidatatable .MUIDataTableHead-main-30 {
+    background-color: rgb(243, 242, 241) !important;
+}
+
+.muidatatable .MUIDataTableHeadCell-data-50 {
+    font-weight: bold !important;
+    font-size: 13px !important; 
+}
+
+
+.muidatatable .MUIDataTableHeadCell-fixedHeader-47 {
+    background-color: inherit !important;
+}
+
+@media screen and (min-width: 960px) {
+    .muidatatable .MuiTableCell-root {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        padding-left: 10px !important;
+        padding-right: 0px !important;
+    }
+}
+@media screen and (max-width: 959px) {
+    .muidatatable .MuiTableCell-root {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+}
+
+@media screen and (max-width: 399px) {
+    .muidatatable .MuiTableCell-root {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    .muidatatable .MUIDataTableBodyCell-root-67{    
+        font-size: small !important;
+    }
+}
+
+@media screen and (max-width: 339px) {
+    .muidatatable .MuiTableCell-root {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    .muidatatable .MUIDataTableBodyCell-root-67{    
+        font-size: smaller !important;
+    }
+}*/
+
+/******************** Styles for Showing Choices ********************/
+.muidatatable-choice-list .MuiPaper-root {
+  box-shadow: none !important;
+}
+.muidatatable-choice-list .MUIDataTableHead-main-30 {
+  background-color: #f5f8fb !important;
+}
+.muidatatable-choice-list .MUIDataTableHeadCell-fixedHeader-47 {
+  background-color: inherit !important;
+}
+
+.muidatatable-choice-list .MUIDataTableBodyCell-cellHide-68 {
+  font-weight: 450 !important;
+}
+.muidatatable-choice-list {
+  width: 100% !important;
+}
+.muidatatable-choice-list .MuiTableCell-root {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+/******************** Styles for Showing Choices ********************/
+
+/******************** Styles for Showing SVGS At Institution Module ********************/
+.update-svg-h4 {
+  text-align: center !important;
+  margin-left: -12px !important;
+  margin-bottom: 30px !important;
+}
+.col .d-flex .justify-content-center {
+  padding-top: 20px !important;
+}
+.update-svg .card {
+  width: 98% !important;
+  align-content: center !important;
+  display: flex !important;
+  position: center !important;
+  border: 1 !important;
+}
+.update-svg .card .card-header {
+  text-align: center !important;
+  min-height: 70px !important;
+  padding-bottom: 5px !important;
+}
+@media screen and (min-width: 960px) {
+  .muidatatable-update-svg .MuiPaper-root {
+    box-shadow: none !important;
+    margin-top: -10px !important;
+  }
+}
+@media screen and (min-width: 960px) {
+  .muidatatable-update-svg .MuiPaper-root {
+    margin-top: -10px !important;
+  }
+}
+.update-svg .h5 {
+  margin-left: -12px !important;
+}
+.MUIDataTableHead-main-30 {
+  background-color: #f5f8fb !important;
+}
+.muidatatable-update-svg .MUIDataTableHeadCell-fixedHeader-47 {
+  background-color: inherit !important;
+}
+
+.muidatatable-update-svg .MUIDataTableBodyCell-cellHide-68 {
+  font-weight: 450 !important;
+}
+.muidatatable-update-svg {
+  width: 100% !important;
+}
+.muidatatable-update-svg .MuiTableCell-root {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.muidatatable-update-svg .MUIDataTableHeadCell-data-50 {
+  font-size: 12px !important;
+}
+@media screen and (min-width: 960px) {
+  .muidatatable-update-svg .MuiTableCell-root {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    font-size: 13px !important;
+  }
+  .muidatatable-update-svg .MUIDataTableHeadCell-toolButton-55 {
+    margin-right: 0 !important;
+  }
+}
+@media screen and (max-width: 959px) {
+  .muidatatable-update-svg .MuiTableCell-root {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+}
+
+@media screen and (max-width: 399px) {
+  .muidatatable-update-svg .MuiTableCell-root {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  .muidatatable-update-svg .MUIDataTableBodyCell-root-67 {
+    font-size: small !important;
+  }
+}
+
+@media screen and (max-width: 339px) {
+  .muidatatable-update-svg .MuiTableCell-root {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  .muidatatable-update-svg .MUIDataTableBodyCell-root-67 {
+    font-size: smaller !important;
+  }
+}
+/******************** Styles for Showing SVGS At Institution Module ********************/
+
+@media screen and (min-width: 960px) {
+  .muidatatable-update-sq .MuiPaper-root {
+    box-shadow: none !important;
+    margin-top: -10px !important;
+  }
+}
+.muidatatable-update-sq .MUIDataTableHead-main-30 {
+  background-color: #f5f8fb !important;
+}
+.muidatatable-update-sq .MUIDataTableHeadCell-fixedHeader-47 {
+  background-color: inherit !important;
+}
+.muidatatable-update-sq .MUIDataTableBodyCell-cellHide-68 {
+  font-weight: 450 !important;
+}
+.muidatatable-update-sq {
+  width: 100% !important;
+}
+.muidatatable-update-sq .MuiTableCell-root {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+@media screen and (min-width: 960px) {
+  .muidatatable-update-sq .MuiTableCell-root {
+    font-size: 14px !important;
+  }
+}
+@media screen and (max-width: 959px) {
+  .muidatatable-update-sq .MuiTableCell-root {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+}
+
+@media screen and (max-width: 399px) {
+  .muidatatable-update-sq .MuiTableCell-root {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  .muidatatable-update-sq .MUIDataTableBodyCell-root-67 {
+    font-size: small !important;
+  }
+}
+
+@media screen and (max-width: 339px) {
+  .muidatatable-update-sq .MuiTableCell-root {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  .muidatatable-update-sq .MUIDataTableBodyCell-root-67 {
+    font-size: smaller !important;
+  }
+}
+
+.unauth {
+  text-align: center;
+}
+
+.unauth .header {
+  color: #414b74;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.unauth .message {
+  padding-top: 20px;
+  color: #414b74;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.unauth .button {
+  padding-top: 20px;
+}

@@ -1,0 +1,203 @@
+.ranking .card {
+    width: 48%;
+}
+.ranking .card-header {
+    margin-top: -5px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: -35px;
+    border: 0px;
+}
+
+.ranking .gray-text {
+    font-weight: lighter;
+    color:rgb(87, 87, 87)
+}
+
+.ranking .small-text {
+    font-size: 16px;
+}
+
+.ranking .bold-text {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ranking .ranking-button {
+    text-align: center;
+}
+
+.process-time {
+    margin-top: 15px;
+    border: 1px solid #ccc!important ;
+    border-radius: 10px;
+    padding: 5px 16px;
+}
+
+.button {
+    margin-top: 15px;
+    padding: 12px 16px;
+    text-align: right;
+}
+
+.ranked-list {
+    background-color: white  !important;
+    width: 98%;
+}
+
+.ranked-list .row {
+    width: 100%;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.ranked-list .header {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.test:after {
+    content: '\2807';
+    font-size: 25px;
+}
+
+
+
+.ranking-criteria .card {
+    width: 98%;
+}
+
+
+.ranking-criteria .ranking-button {
+    text-align: right;
+    color: black;
+    width: 200px;
+}
+
+.ranking-criteria .card-header {
+    margin-top: 0px;
+    margin-bottom: -20px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 0px;
+}
+
+.box {
+    background: orange;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+    color: white;
+    padding: 2px 10px 2px 10px;
+    background-color: rgb(0, 174, 255);
+    overflow: hidden;
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+
+.edit-ranking-criteria .card {
+    width: 98%;
+}
+
+.edit-ranking-criteria .card .card-body{
+    padding-right: 0px;
+}
+
+.edit-ranking-criteria .col-8{
+    padding-right: 0px;
+}
+
+.edit-ranking-criteria .ranking-button {
+    text-align: right;
+    color: black;
+    width: 200px;
+}
+
+.edit-ranking-criteria .card-header {
+    margin-top: 0px;
+    margin-bottom: -20px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 0px;
+}
+
+.edit-ranking-right-bordered {
+    margin-left: -5px;
+    border-style: solid;
+    border-width: 0px 1px 0px 0px; /* 25px top, 10px right, 4px bottom and 35px left */
+}
+
+.edit-ranking-right-bordered .card-header {
+    margin-top: -5px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: -35px;
+    border: 0px;
+    padding-left: 5px;
+}
+
+.edit-ranking-criteria .row .card {
+    border: 0px;
+}
+
+.edit-ranking-criteria .row .card-body {
+    padding-right: 0px;
+    padding-left: 5px;
+}
+
+.card-criteria .card {
+    border: 0px;
+}
+
+.card-criteria .card-header {
+    margin-top: -15px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: -35px;
+    border: 0px;
+    padding-left: 5px;
+}
+
+.card-criteria .card-body {
+    padding: 10px 0px 0px 0px;
+}
+
+.mui-ranking-button {
+    width: 87px;
+    margin-right: 10px !important;
+}
+
+.mui-ranking-button-right {
+    width: 87px;
+}
+
+.button-div {
+    text-align: right;
+}
+
+.scheduling-title {
+    display: flex;
+    align-items: center;
+}
+
+.scheduling .card{
+    width: 98%;
+}
+
+.scheduling .card-header{
+    /* margin-top: -5px; */
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: -20px;
+    border: 1;
+}
+
+.MuiPickersModal-dialogRoot {
+    width: 325px;
+}
+
+/* .bordered-div {
+    border: 1px solid #ccc!important ;
+    border-radius: 5px;
+    margin-bottom: 20px;
+} */

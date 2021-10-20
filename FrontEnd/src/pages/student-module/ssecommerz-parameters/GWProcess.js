@@ -1,0 +1,27 @@
+var gwprocessParameters =  {
+    'store_id': 'testbox',
+    'store_passwd': 'qwerty',
+    'total_amount': '250',
+    'currency': 'BDT',
+    'tran_id': 'REF123',
+    'product_category': 'application submission',
+    'success_url': 'http://43.224.110.85:8800/students/demoPayment',
+    'fail_url': 'http://yoursite.com/fail.php',
+    'cancel_url': 'http://yoursite.com/cancel.php',
+    'emi_option': '0',
+    'cus_name': 'Customer Name',
+    'cus_email': 'cust@yahoo.com',
+    'cus_add1': 'Dhaka',
+    'cus_city': 'Dhaka',
+    'cus_postcode': '1000',
+    'cus_country': 'Bangladesh',
+    'cus_phone': '01711111111',
+    'shipping_method': 'No',
+    'num_of_item': '1',
+    'product_name': 'app choices',
+    'product_category': 'app choices',
+    'product_profile': 'general',
+    'value_a': 'http://43.224.110.85:3000/application/viewapplication/success',
+}
+
+export { gwprocessParameters };
